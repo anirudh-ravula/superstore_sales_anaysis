@@ -17,10 +17,10 @@ We performed EDA to understand the distribution and relationships within the dat
 
 ## Dashboards
 
-Sales Performance Dashboard
-Customer Analysis Dashboard
-Product Performance Dashboard
-Regional Performance Dashboard
+### Sales Performance Dashboard
+### Customer Analysis Dashboard
+### Product Performance Dashboard
+### Regional Performance Dashboard
 
 ## Results
 The dashboards provide comprehensive insights into the sales performance, customer behavior, product performance, and regional performance of the Superstore. These insights can be used for strategic decision-making and improving business processes.
